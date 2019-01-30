@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Needs
 Angular 6+ is needed for the correct use of Pug. Don't forget to update your global Angular CLI.
 The proyect need to execute this command: ng add ng-cli-pug-loader
-And, in packaje.json -> scripts add this scripts: 
+And, in packaje.json -> scripts add these scripts: 
 	"pug-it": "pug src",
 	"pug-it:w": "pug src -P -w"
 
